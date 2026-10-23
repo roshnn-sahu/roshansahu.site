@@ -19,7 +19,7 @@ export default function Connect() {
       id: "twitter",
       icon: NewTwitterIcon,
       title: "Twitter",
-      url: "https://x.com/RoshanS72056",
+      url: "https://x.com/hloRoshan",
     },
     {
       id: "github",
